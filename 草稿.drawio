@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-03T09:10:31.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="X4s7zEs5umK8plDjm38P" version="20.2.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-03T09:15:20.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="GdU_jTbblxuaHNEKBhg5" version="20.2.8" type="github">
   <diagram id="JSnakOGd0x6O5i21G1Du" name="第 1 页">
-    <mxGraphModel dx="981" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1041" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -178,7 +178,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="b54lSuBmYj791jRQhkf2-57" value="中台维护" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="b54lSuBmYj791jRQhkf2-57" value="独立定制品发布页面&lt;br&gt;可内嵌到各应用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b54lSuBmYj791jRQhkf2-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="b54lSuBmYj791jRQhkf2-60" target="b54lSuBmYj791jRQhkf2-67">
@@ -231,7 +231,7 @@
         <mxCell id="b54lSuBmYj791jRQhkf2-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="b54lSuBmYj791jRQhkf2-76" target="b54lSuBmYj791jRQhkf2-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="b54lSuBmYj791jRQhkf2-76" value="中台维护" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="b54lSuBmYj791jRQhkf2-76" value="独立定制品发布页面&lt;br&gt;可内嵌到各应用" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="1650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b54lSuBmYj791jRQhkf2-81" value="中台-商品方案中心" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
